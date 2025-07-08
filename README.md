@@ -1,5 +1,3 @@
-<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
-
 <h2> Hey there! I'm Villalba Facundo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
@@ -51,14 +49,3 @@ Bridging pixels and code — I build clean, fast, and human-centered web solutio
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 <br/>
-
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Problem Solving</h2></summary>
-  </ul>
-</div>
-<!--icons and links-->
-<p>
-<a href="https://leetcode.com/Mohamed_Magdi/" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/profile/mohamed_m_alseh1" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/b0b5cfe3-3565-41d1-a1f5-6a3f88f4c42f" alt="hackerrank" height="50" width="50" /></a>
-</p>
