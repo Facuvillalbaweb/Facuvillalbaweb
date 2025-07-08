@@ -8,8 +8,9 @@
 
 Bridging pixels and code — I build clean, fast, and human-centered web solutions.
 
-- 🎓 &nbsp; I’m currently a senior student at Tanta University's Mechatronics Department.
-- 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, CNC Machines&Programming, and AUTOSAR.
+- 🎓 &nbsp; I’m currently pursuing a Bachelor's degree in Economics.
+- 🌱 &nbsp; Currently working as a Web Developer and constantly learning new tools and technologies to improve my workflow.
+
   <!-- Connect with me -->
   <!--h2 without bottom border-->
   <div id="user-content-toc">
