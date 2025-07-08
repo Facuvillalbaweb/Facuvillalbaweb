@@ -21,8 +21,8 @@ Bridging pixels and code — I build clean, fast, and human-centered web solutio
   <p align="left">
 
   <a href="https://www.linkedin.com/in/mohamed-magdi-4b209b218/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="50" width="50" /></a>
-  <a href="facuvillalbaweb@gmail.com" target="blank"><img align="center" src="[https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c](https://www.instagram.com/facuvillalba111/)" alt="gmail" height="50" width="50"  /></a>
-  <a href="https://www.instagram.com/facuvillalba111/" target="blank"><img align="center" src="(https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)" alt="discord" height="50" width="50" /></a>
+  <a href="facuvillalbaweb@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="50" width="50"  /></a>
+  <a href="https://www.instagram.com/facuvillalba111/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="discord" height="50" width="50" /></a>
   <a href="https://www.facebook.com/profile.php?id=100095558076857" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="linkedin" height="50" width="50" /></a>
   </p>
   </div>
